@@ -131,7 +131,7 @@ angular.module('app', ['flowChart', ])
 
 				dest: {
 					nodeID: 1,
-					connectorIndex: 2,
+					connectorIndex: 1,
 				},
 			},
 			{
